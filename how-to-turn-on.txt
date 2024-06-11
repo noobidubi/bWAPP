@@ -1,0 +1,5 @@
+2 step guide:
+sudo service mysql start	//will start mysql db
+php -S localhost:8080		//will start http server on port 8080 and will use current window for debugging
+
+*to acces the web page put localhost:8080/ into your browser window*
